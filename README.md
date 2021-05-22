@@ -46,28 +46,28 @@
 # 資料說明
 **以下＿ｎ表示數字**
 ---
-「Ｉｍａｇｅ」資料夾
-Map_n.png		地圖圖片
-Character_n.png	角色圖片
-Car.png			汽車圖片
-Scooter.png		機車圖片
-House_n.png		房屋圖片
--
-「Ａｎｉｍｅ」資料夾
-Roll_n.gif			骰子動畫
-Buy.gif			買地動畫
-Upgrade.gif		升級土地動畫
-Pay.gif			繳交過路費動畫
-Hospital.gif		醫院動畫
-Jail.gif			監獄動畫
+「Ｉｍａｇｅ」資料夾  
+Map_n.png		地圖圖片  
+Character_n.png	角色圖片  
+Car.png			汽車圖片  
+Scooter.png		機車圖片  
+House_n.png		房屋圖片  
 ---
-「Ｓｏｕｎｄ」資料夾
-BGM.wav		背景音樂
-Click.wav		按鈕音效
-Hospital.wav		醫院音效
-Jail.wav			監獄音效
-Pay.wav			購買/升級土地、付過路費音效
-ROLL.wav		色子音效
+「Ａｎｉｍｅ」資料夾  
+Roll_n.gif			骰子動畫  
+Buy.gif			買地動畫  
+Upgrade.gif		升級土地動畫  
+Pay.gif			繳交過路費動畫  
+Hospital.gif		醫院動畫  
+Jail.gif			監獄動畫  
+---
+「Ｓｏｕｎｄ」資料夾  
+BGM.wav		背景音樂  
+Click.wav		按鈕音效  
+Hospital.wav		醫院音效  
+Jail.wav			監獄音效  
+Pay.wav			購買/升級土地、付過路費音效  
+ROLL.wav		子音效  
 ---
 「ＭａｐＤａｔａ＿ｎ.ｔｘｔ」地圖資料
 <說明內容>
