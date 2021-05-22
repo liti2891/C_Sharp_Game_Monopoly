@@ -57,22 +57,22 @@ House_n.png：房屋圖片
 ---
 「Ａｎｉｍｅ」資料夾  
 ```
-Roll_n.gif			骰子動畫  
-Buy.gif			買地動畫  
-Upgrade.gif		升級土地動畫  
-Pay.gif			繳交過路費動畫  
-Hospital.gif		醫院動畫  
-Jail.gif			監獄動畫  
+Roll_n.gif：骰子動畫  
+Buy.gif：買地動畫  
+Upgrade.gif：升級土地動畫  
+Pay.gif：繳交過路費動畫  
+Hospital.gif：醫院動畫  
+Jail.gif：監獄動畫  
 ```
 ---
 「Ｓｏｕｎｄ」資料夾  
 ```
-BGM.wav		背景音樂  
-Click.wav		按鈕音效  
-Hospital.wav		醫院音效  
-Jail.wav			監獄音效  
-Pay.wav			購買/升級土地、付過路費音效  
-ROLL.wav		骰子音效  
+BGM.wav：背景音樂  
+Click.wav：按鈕音效  
+Hospital.wav：醫院音效  
+Jail.wav：監獄音效  
+Pay.wav：購買/升級土地、付過路費音效  
+ROLL.wav：骰子音效  
 ```
 ---
 「ＭａｐＤａｔａ＿ｎ.ｔｘｔ」地圖資料  
