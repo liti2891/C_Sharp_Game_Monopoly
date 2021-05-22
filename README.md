@@ -47,11 +47,13 @@
 **以下＿ｎ表示數字**
 ---
 「Ｉｍａｇｅ」資料夾  
-* Map_n.png		地圖圖片  
-* Character_n.png	角色圖片  
-* Car.png			汽車圖片  
-* Scooter.png		機車圖片  
-* House_n.png		房屋圖片  
+```
+* Map_n.png：地圖圖片  
+* Character_n.png：角色圖片  
+* Car.png：汽車圖片  
+* Scooter.png：機車圖片  
+* House_n.png：房屋圖片  
+```
 ---
 「Ａｎｉｍｅ」資料夾  
 * Roll_n.gif			骰子動畫  
